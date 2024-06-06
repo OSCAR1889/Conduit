@@ -1,0 +1,5 @@
+username: mydbuser
+password: mydbpassword
+host: localhost
+port: 5432
+databaseName: toppersdb
